@@ -1,0 +1,39 @@
+{
+  "author": {
+    "name": "Autoplay Technologies",
+    "email": "support@autoplay.dev",
+    "url": "https://graphable.io/"
+  },
+  "bugs": {
+    "url": "https://github.com/autoplay-technologies/graphable/issues"
+  },
+  "description": "Analytics code for logging and visualizing user sessions in your app.",
+  "devDependencies": {
+    "typescript": "^3.7.2"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "homepage": "https://github.com/autoplay-technologies/graphable#readme",
+  "keywords": [
+    "analytics",
+    "screen",
+    "tracking",
+    "logging",
+    "events",
+    "ui",
+    "ux"
+  ],
+  "license": "MIT",
+  "main": "./lib/graphable.js",
+  "name": "graphable",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/autoplay-technologies/graphable.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "types": "./types/index.d.ts",
+  "version": "1.0.0"
+}
